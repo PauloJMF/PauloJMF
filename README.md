@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm a Paulo Machado.
+
+Backend Software Developer at <b>@ebanx</b>, currently working with Javascript and Typescript.
+
+Fullstack developer since 2019 but focusing today on backend technologies and solutions.
+
+Learning English and trying to improve my conversation with natives speakers.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulojmf/)
 
 <!--
 **PauloJMF/PauloJMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
